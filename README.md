@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobmayor007&label=Profile%20views&color=0e75b6&style=flat" alt="jacobmayor007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobmayor007" alt="jacobmayor007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobmayor007(https://github.com/account)" alt="jacobmayor007" /></a> </p>
 
 - 🔭 I’m currently working on [Ethereal Massage](https://github.com/JacobMayor007/ethereal_massage)
 
