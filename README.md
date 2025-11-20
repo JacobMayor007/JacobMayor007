@@ -1,15 +1,14 @@
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobMayor007/JacobMayor007/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobMayor007/JacobMayor007/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JacobMayor007/JacobMayor007/output/pacman-contribution-graph.svg">
 </picture>
-
 ###
 
 <h1 align="center">Hi 👋, I'm Jacob Mary Tapere</h1>
 <h3 align="center">Web & Mobile Developer | HackForGov Participant | Cisco Networking Fundamentals</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobmayor007&label=Profile%20views&color=0e75b6&style=flat" alt="jacobmayor007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy](https://github.com/JacobMayor007?tab=repositories"><img src="https://avatars.githubusercontent.com/u/164714571?v=4" username="JacobMayor007(https://github.com/account)" alt="JacobMayor007" /></a> </p>
 
