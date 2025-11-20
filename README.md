@@ -1,9 +1,10 @@
 
+<img src="https://raw.githubusercontent.com/JacobMayor007/JacobMayor007/output/snake.svg" alt="Snake animation" />
+
 
 <h1 align="center">Hi 👋, I'm Jacob Mary Tapere</h1>
 <h3 align="center">Web & Mobile Developer | HackForGov Participant | Cisco Networking Fundamentals</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy](https://github.com/JacobMayor007?tab=repositories"><img src="https://avatars.githubusercontent.com/u/164714571?v=4" username="JacobMayor007(https://github.com/account)" alt="JacobMayor007" /></a> </p>
 
 - 🔭 I’m currently working on [Ethereal Massage](https://github.com/JacobMayor007/ethereal_massage)
 
