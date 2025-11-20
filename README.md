@@ -1,11 +1,4 @@
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobMayor007/JacobMayor007/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobMayor007/JacobMayor007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JacobMayor007/JacobMayor007/output/pacman-contribution-graph.svg">
-</picture>
-###
 
 <h1 align="center">Hi 👋, I'm Jacob Mary Tapere</h1>
 <h3 align="center">Web & Mobile Developer | HackForGov Participant | Cisco Networking Fundamentals</h3>
