@@ -1,5 +1,5 @@
 
-<img style="align-self:center;width:100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrZlTHr3mxIKqutDWsaJuAzPjdDt12gaevg&s" alt="Background Image" />
+<img style="align-self:center;width:72%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrZlTHr3mxIKqutDWsaJuAzPjdDt12gaevg&s" alt="Background Image" />
 
 <h1 align="center">Hi 👋, I'm Jacob Mary Tapere</h1>
 <h3 align="center">Web & Mobile Developer | HackForGov Participant | Cisco Networking Fundamentals</h3>
