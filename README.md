@@ -5,8 +5,7 @@
 <h3 align="center">Web & Mobile Developer | HackForGov Participant | Cisco Networking Fundamentals</h3>
 
 
-- 🔭 I’m currently working on a Real time chat application using Websocket that is built by React + Vite, and GoLang on the backend. <a href="[https://github.com/JacobMayor007/websocket-go-react-postgresql]" target="blank">Chat App</a>
-
+- 🔭 I’m currently working on a Real time chat application using Websocket that is built by React + Vite, and GoLang on the backend. [Please check it out](https://github.com/JacobMayor007?tab=repositories)
 - 🌱 I’m currently learning on **Go language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JacobMayor007?tab=repositories](https://github.com/JacobMayor007?tab=repositories)
